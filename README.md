@@ -50,24 +50,28 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 ---
 
 # 🚀 Featured Projects
+## 🏠 HomeEase Pro
 
-## 🏠 HomeEase
+A modern and responsive home services web application inspired by Urban Company. It provides a clean interface for users to explore home services and book them with an intuitive user experience.
 
-A responsive home services booking website inspired by Urban Company.
+### ✨ Features
 
-### Features
+- 📱 Fully Responsive Design
+- 🔍 Service Search
+- 📅 Booking System
+- 💾 Local Storage Integration
+- 🎨 Modern UI/UX
+- ⚡ Fast Performance
 
-- Responsive UI
-- Service Search
-- Local Storage
-- Booking System
-- Modern User Interface
-
-**Tech Stack**
+### 🛠 Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
+
+### 🌐 Live Demo
+
+**https://home-ease-pro.vercel.app/**
 
 ---
 

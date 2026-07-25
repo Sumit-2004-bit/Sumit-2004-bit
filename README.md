@@ -4,7 +4,7 @@
 
 ### Frontend Developer | React.js Developer | JavaScript Enthusiast
 
-I'm a Frontend Developer passionate about building responsive, user-friendly, and modern web applications using React.js and JavaScript. I enjoy transforming ideas into interactive digital experiences and continuously improving my development skills by building real-world projects.
+I'm a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications using React.js and JavaScript. I love turning ideas into interactive digital experiences while continuously improving my skills by working on real-world projects.
 
 ---
 
@@ -14,11 +14,10 @@ I'm a Frontend Developer passionate about building responsive, user-friendly, an
 - 💻 Frontend Developer specializing in React.js
 - 🌱 Currently learning
   - Advanced React.js
-  - Backend Development (Node.js & Express)
+  - Backend Development (Node.js & Express.js)
   - MySQL
   - Data Structures & Algorithms
-- 🔭 Currently working on **Grow With Us – Local Marketplace Web Application**
-- 🎯 Goal: Become a Frontend React Developer
+- 🎯 Goal: Become a Frontend React Developer and build scalable web applications.
 
 ---
 
@@ -50,52 +49,49 @@ I'm a Frontend Developer passionate about building responsive, user-friendly, an
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏡 Grow With Us
+## 🏠 HomeEase
 
-A Local Marketplace platform connecting local sellers and customers.
+A responsive home services booking website inspired by Urban Company.
+
+### Features
+
+- Responsive UI
+- Service Search
+- Local Storage
+- Booking System
+- Modern User Interface
 
 **Tech Stack**
 
-- React.js
+- HTML5
+- CSS3
 - JavaScript
-- CSS
-- Node.js
-- MySQL
 
 ---
 
-### 🏠 HomeEase
+## 💼 Portfolio Website
 
-Responsive home service booking website inspired by Urban Company.
+A modern personal portfolio showcasing my skills, projects, and experience.
 
-**Features**
+🌐 **Live Website**
 
-- Responsive UI
-- Search Services
-- Local Storage
-- Booking System
+**https://portfolio-pearl-kappa-64.vercel.app/**
 
 ---
 
-### 💼 Portfolio Website
-
-Personal portfolio showcasing my projects, skills, and experience.
-
-🌐 Live Demo
-
-https://portfolio-website-pi-one-19.vercel.app/
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&theme=tokyonight"/>
 
@@ -103,7 +99,7 @@ https://portfolio-website-pi-one-19.vercel.app/
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -113,13 +109,25 @@ https://portfolio-website-pi-one-19.vercel.app/
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=react-dark)](https://github.com/Sumit-2004-bit)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=react-dark"/>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🌐 Portfolio
+
+### 🔗 Live Website
+
+https://portfolio-pearl-kappa-64.vercel.app/
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
 
@@ -139,13 +147,6 @@ https://portfolio-website-pi-one-19.vercel.app/
 
 ---
 
-## 🌐 Portfolio
+# 💡 Fun Fact
 
-**Portfolio:**  
-https://portfolio-website-pi-one-19.vercel.app/
-
----
-
-## 💡 Fun Fact
-
-> I love turning ideas into beautiful and interactive web applications using React.js.
+> I enjoy building clean, responsive, and interactive web applications using React.js and JavaScript while continuously learning new technologies.

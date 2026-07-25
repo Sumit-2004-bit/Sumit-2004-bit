@@ -1,103 +1,109 @@
+<!-- ===================================================== -->
+<!--                 SUMIT DESHMUKH PROFILE                 -->
+<!-- ===================================================== -->
+
 # Sumit Deshmukh
 
-**Frontend Developer • React.js Enthusiast • Building Responsive Web Experiences**
+**Frontend Developer** based in Maharashtra, India.
 
-I'm a frontend developer passionate about creating fast, responsive, and accessible web applications. I enjoy turning ideas into intuitive user interfaces using modern JavaScript and React while continuously improving my problem-solving and development skills.
+I enjoy building clean, responsive, and accessible web applications that combine thoughtful design with practical functionality. My primary focus is React.js and modern JavaScript, and I'm currently expanding my backend knowledge to become a stronger full-stack developer.
 
-Currently, I'm strengthening my frontend expertise and expanding into backend development to become a well-rounded full-stack developer.
-
----
-
-## 👋 About Me
-
-- 🎓 Bachelor of Engineering in Information Technology
-- 💻 Focused on Frontend Development with React.js
-- 🌱 Currently learning Node.js, Express.js, MySQL, and Data Structures & Algorithms
-- 🚀 Interested in building real-world web applications
-- 🤝 Open to internships, freelance opportunities, and frontend developer roles
+I believe good frontend development is more than writing code—it's about creating fast, intuitive experiences that people enjoy using.
 
 ---
 
-## 🛠 Tech Stack
+## What I Do
 
-### Languages
+- Build responsive web applications with React.js
+- Develop reusable UI components
+- Consume REST APIs
+- Improve performance and accessibility
+- Create mobile-first user interfaces
+- Continuously learn modern frontend technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
-</p>
+---
+
+## Tech I Work With
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,vite" />
 </p>
 
-### Backend (Learning)
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-### Tools
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=java,c" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
 </p>
 
 ---
 
-# Selected Projects
+# Featured Work
 
 ## 🏠 HomeEase Pro
 
-A responsive home services website inspired by modern service-booking platforms.
+A responsive home services booking platform inspired by modern service marketplaces.
 
 ### Highlights
 
-- Responsive design
-- Modern UI
+- Responsive layouts
 - Service search
-- Booking functionality
-- Local Storage integration
+- Booking workflow
+- Interactive UI
+- Local Storage
+- Mobile-first design
 
-**Tech Used**
+**Tech Stack**
 
-HTML • CSS • JavaScript
+HTML5 • CSS3 • JavaScript • Tailwind CSS
 
-🔗 Live Demo
+### Live Project
 
-https://home-ease-pro.vercel.app/
+🔗 https://home-ease-pro.vercel.app/
 
 ---
 
 ## 💼 Personal Portfolio
 
-A portfolio website showcasing my projects, technical skills, and learning journey.
+My portfolio showcases selected projects, technical skills, and my development journey.
 
-🔗 Visit Portfolio
-
-https://portfolio-pearl-kappa-64.vercel.app/
+🔗 https://portfolio-pearl-kappa-64.vercel.app/
 
 ---
 
-# What I'm Learning
+# Current Focus
 
-```text
-✔ Advanced JavaScript
-✔ React Ecosystem
-✔ REST APIs
-✔ Backend Development
-✔ SQL & Database Design
-✔ Data Structures & Algorithms
-```
+Currently improving my knowledge in
+
+- Advanced React.js
+- Backend Development
+- Express.js
+- MySQL
+- MongoDB
+- Data Structures & Algorithms
+- Clean Architecture
+- Performance Optimization
 
 ---
 
-# GitHub Analytics
+# GitHub Overview
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&hide_border=true&theme=transparent"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=transparent&hide_border=true"/>
 
@@ -105,17 +111,31 @@ https://portfolio-pearl-kappa-64.vercel.app/
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
 ---
 
-## Activity
+# Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=github-compact"/>
+
 </p>
+
+---
+
+# Beyond Coding
+
+Outside development, I enjoy
+
+- Learning modern frontend architecture
+- Exploring UI/UX design
+- Reading documentation
+- Building personal projects
+- Continuously improving problem-solving skills
 
 ---
 
@@ -124,30 +144,19 @@ https://portfolio-pearl-kappa-64.vercel.app/
 <p>
 
 <a href="mailto:deshmukhsumit2503@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 <a href="https://linkedin.com/in/sumit-deshmukh25">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="https://github.com/Sumit-2004-bit">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
 </p>
 
 ---
 
-## Outside of Coding
-
-When I'm not coding, I enjoy:
-
-- 📚 Learning new web technologies
-- 🎨 Improving UI/UX skills
-- 💡 Building personal projects
-- 🚀 Exploring open-source repositories
-
----
-
-> *"Great user experiences are built through attention to detail, continuous learning, and clean code."*
+> **"I enjoy building modern web applications where clean code, thoughtful design, and great user experience come together."**

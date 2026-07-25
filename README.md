@@ -1,32 +1,35 @@
-# Hi there 👋, I'm Sumit Deshmukh
+# Sumit Deshmukh
 
-<img align="right" alt="Coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhuZHF0b3BnYXl1ZWJvOHh6eWRuODNhenFld2h4MWh0eWc0cGIxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+**Frontend Developer • React.js Enthusiast • Building Responsive Web Experiences**
 
-### Frontend Developer | React.js Developer | JavaScript Enthusiast
+I'm a frontend developer passionate about creating fast, responsive, and accessible web applications. I enjoy turning ideas into intuitive user interfaces using modern JavaScript and React while continuously improving my problem-solving and development skills.
 
-I'm a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications using React.js and JavaScript. I love turning ideas into interactive digital experiences while continuously improving my skills by working on real-world projects.
+Currently, I'm strengthening my frontend expertise and expanding into backend development to become a well-rounded full-stack developer.
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 B.E. in Information Technology
-- 💻 Frontend Developer specializing in React.js
-- 🌱 Currently learning
-  - Advanced React.js
-  - Backend Development (Node.js & Express.js)
-  - MySQL
-  - Data Structures & Algorithms
-- 🎯 Goal: Become a Frontend React Developer and build scalable web applications.
+- 🎓 Bachelor of Engineering in Information Technology
+- 💻 Focused on Frontend Development with React.js
+- 🌱 Currently learning Node.js, Express.js, MySQL, and Data Structures & Algorithms
+- 🚀 Interested in building real-world web applications
+- 🤝 Open to internships, freelance opportunities, and frontend developer roles
 
 ---
 
 ## 🛠 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
+</p>
+
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ### Backend (Learning)
@@ -35,122 +38,116 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
 </p>
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c" />
-</p>
-
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# Selected Projects
+
 ## 🏠 HomeEase Pro
 
-A modern and responsive home services web application inspired by Urban Company. It provides a clean interface for users to explore home services and book them with an intuitive user experience.
+A responsive home services website inspired by modern service-booking platforms.
 
-### ✨ Features
+### Highlights
 
-- 📱 Fully Responsive Design
-- 🔍 Service Search
-- 📅 Booking System
-- 💾 Local Storage Integration
-- 🎨 Modern UI/UX
-- ⚡ Fast Performance
+- Responsive design
+- Modern UI
+- Service search
+- Booking functionality
+- Local Storage integration
 
-### 🛠 Tech Stack
+**Tech Used**
 
-- HTML5
-- CSS3
-- JavaScript
+HTML • CSS • JavaScript
 
-### 🌐 Live Demo
+🔗 Live Demo
 
-**https://home-ease-pro.vercel.app/**
+https://home-ease-pro.vercel.app/
 
 ---
 
-## 💼 Portfolio Website
+## 💼 Personal Portfolio
 
-A modern personal portfolio showcasing my skills, projects, and experience.
+A portfolio website showcasing my projects, technical skills, and learning journey.
 
-🌐 **Live Website**
-
-**https://portfolio-pearl-kappa-64.vercel.app/**
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit-2004-bit&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=react-dark"/>
-
-</p>
-
----
-
-# 🌐 Portfolio
-
-### 🔗 Live Website
+🔗 Visit Portfolio
 
 https://portfolio-pearl-kappa-64.vercel.app/
 
 ---
 
-# 🤝 Connect With Me
+# What I'm Learning
 
-<p align="left">
+```text
+✔ Advanced JavaScript
+✔ React Ecosystem
+✔ REST APIs
+✔ Backend Development
+✔ SQL & Database Design
+✔ Data Structures & Algorithms
+```
 
-<a href="https://linkedin.com/in/sumit-deshmukh25">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=github-compact"/>
+</p>
+
+---
+
+# Let's Connect
+
+<p>
 
 <a href="mailto:deshmukhsumit2503@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/sumit-deshmukh25">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://github.com/Sumit-2004-bit">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Fun Fact
+## Outside of Coding
 
-> I enjoy building clean, responsive, and interactive web applications using React.js and JavaScript while continuously learning new technologies.
+When I'm not coding, I enjoy:
+
+- 📚 Learning new web technologies
+- 🎨 Improving UI/UX skills
+- 💡 Building personal projects
+- 🚀 Exploring open-source repositories
+
+---
+
+> *"Great user experiences are built through attention to detail, continuous learning, and clean code."*

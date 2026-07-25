@@ -1,36 +1,151 @@
-<h1 align="center">Hi 👋, I'm Sumit Deshmukh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there 👋, I'm Sumit Deshmukh
 
-<img align="right" alt="Coding" width="400" 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhuZHF0b3BnYXl1ZWJvOHh6eWRuODNhenFld2h4MWh0eWc0cGIxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhuZHF0b3BnYXl1ZWJvOHh6eWRuODNhenFld2h4MWh0eWc0cGIxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-2004-bit&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-2004-bit" /> </p>
+### Frontend Developer | React.js Developer | JavaScript Enthusiast
 
-- 🔭 I’m currently working on **Grow With Us – Local Marketplace Web Application**
+I'm a Frontend Developer passionate about building responsive, user-friendly, and modern web applications using React.js and JavaScript. I enjoy transforming ideas into interactive digital experiences and continuously improving my development skills by building real-world projects.
 
-- 🌱 I’m currently learning **JavaScript, React.js, Data Structures & Algorithms (DSA), MySQL**
+---
 
-- 👯 I’m looking to collaborate on **Frontend Web Development Projects using React.js**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **Full Stack Development, Backend Integration & Deployment**
+- 🎓 B.E. in Information Technology
+- 💻 Frontend Developer specializing in React.js
+- 🌱 Currently learning
+  - Advanced React.js
+  - Backend Development (Node.js & Express)
+  - MySQL
+  - Data Structures & Algorithms
+- 🔭 Currently working on **Grow With Us – Local Marketplace Web Application**
+- 🎯 Goal: Become a Frontend React Developer
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-pi-one-19.vercel.app/](https://portfolio-website-pi-one-19.vercel.app/)
+---
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Git, GitHub, Responsive Web Design**
+## 🛠 Tech Stack
 
-- 📫 How to reach me **deshmukhsumit2503@gmail.com**
+### Frontend
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumit-deshmukh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-deshmukh25" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/444101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="444101" height="30" width="40" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Backend (Learning)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-2004-bit&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-2004-bit&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+### Programming Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-2004-bit" alt="GitHub Streak" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=java,c" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏡 Grow With Us
+
+A Local Marketplace platform connecting local sellers and customers.
+
+**Tech Stack**
+
+- React.js
+- JavaScript
+- CSS
+- Node.js
+- MySQL
+
+---
+
+### 🏠 HomeEase
+
+Responsive home service booking website inspired by Urban Company.
+
+**Features**
+
+- Responsive UI
+- Search Services
+- Local Storage
+- Booking System
+
+---
+
+### 💼 Portfolio Website
+
+Personal portfolio showcasing my projects, skills, and experience.
+
+🌐 Live Demo
+
+https://portfolio-website-pi-one-19.vercel.app/
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumit-2004-bit&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=react-dark)](https://github.com/Sumit-2004-bit)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sumit-deshmukh25">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:deshmukhsumit2503@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Sumit-2004-bit">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+## 🌐 Portfolio
+
+**Portfolio:**  
+https://portfolio-website-pi-one-19.vercel.app/
+
+---
+
+## 💡 Fun Fact
+
+> I love turning ideas into beautiful and interactive web applications using React.js.

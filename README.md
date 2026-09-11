@@ -9,23 +9,32 @@
 <br>
 
 <img
-  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming%20GIFs/coding.gif"
-  width="400"
-  alt="Anime coding animation"
+  src="https://github-readme-utils.vercel.app/api/gif/anime"
+  height="260"
+  alt="Anime GIF"
 />
 
 <br><br>
 
 <a href="https://sumit-portfolio-amber.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="https://github.com/Sumit-2004-bit">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  <img
+    src="https://img.shields.io/badge/💻%20GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://linkedin.com/in/sumit-deshmukh25">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img
+    src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </div>
@@ -36,24 +45,24 @@
 
 I'm **Sumit Deshmukh**, a Frontend Developer based in **Maharashtra, India**.
 
-I enjoy building modern, responsive, and user-friendly web applications.
+I enjoy building clean, responsive, and user-friendly web applications using modern frontend technologies.
 
-My primary focus is **React.js and JavaScript**, with an emphasis on reusable components, responsive design, API integration, and clean user experiences.
+My primary focus is **React.js and JavaScript**, with an emphasis on reusable components, responsive design, API integration, and practical user experiences.
 
-I enjoy turning ideas into functional applications while continuously improving my development and problem-solving skills.
+I enjoy transforming ideas into functional web applications while keeping the code clean, maintainable, and easy to understand.
 
 ---
 
 # ⚡ What I Do
 
-- ⚛️ Build web applications with React.js
-- 💻 Develop applications using modern JavaScript
+- ⚛️ Build modern applications with React.js
+- 💻 Develop dynamic applications with JavaScript
 - 🧩 Create reusable UI components
 - 📱 Build responsive and mobile-first interfaces
 - 🔗 Integrate REST APIs
 - 🎨 Create clean and intuitive interfaces
 - ⚡ Focus on performance and usability
-- 🚀 Deploy applications using modern tools
+- 🚀 Deploy web applications
 
 ---
 
@@ -62,25 +71,37 @@ I enjoy turning ideas into functional applications while continuously improving 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite"
+    alt="Frontend technologies"
+  />
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"
+    alt="Backend technologies"
+  />
 </p>
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c" />
+  <img
+    src="https://skillicons.dev/icons?i=java,c"
+    alt="Programming languages"
+  />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel"
+    alt="Development tools"
+  />
 </p>
 
 ---
@@ -92,8 +113,8 @@ I enjoy turning ideas into functional applications while continuously improving 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime%20GIFs/anime-girl.gif"
-  width="300"
+  src="https://github-readme-utils.vercel.app/api/gif/anime"
+  height="220"
   alt="Anime GIF"
 />
 
@@ -117,7 +138,7 @@ I enjoy turning ideas into functional applications while continuously improving 
 
 ### 🌐 Live Project
 
-**https://home-ease-pro.vercel.app/**
+👉 **https://home-ease-pro.vercel.app/**
 
 ---
 
@@ -126,18 +147,18 @@ I enjoy turning ideas into functional applications while continuously improving 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime%20GIFs/anime.gif"
-  width="300"
-  alt="Anime developer GIF"
+  src="https://github-readme-utils.vercel.app/api/gif/anime"
+  height="220"
+  alt="Anime GIF"
 />
 
 </div>
 
-My personal portfolio website showcases my projects, technical skills, and professional profile.
+My personal portfolio showcases my projects, technical skills, and professional profile.
 
 ### ✨ Highlights
 
-- 🎨 Modern user interface
+- 🎨 Modern interface
 - 📱 Responsive design
 - 💻 Project showcase
 - 🛠️ Technical skills
@@ -147,7 +168,7 @@ My personal portfolio website showcases my projects, technical skills, and profe
 
 ### 🌐 Live Portfolio
 
-**https://sumit-portfolio-amber.vercel.app/**
+👉 **https://sumit-portfolio-amber.vercel.app/**
 
 ---
 
@@ -156,30 +177,28 @@ My personal portfolio website showcases my projects, technical skills, and profe
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime%20GIFs/anime-coding.gif"
-  width="350"
-  alt="Anime coding GIF"
+  src="https://github-readme-utils.vercel.app/api/gif/anime"
+  height="240"
+  alt="Anime reaction GIF"
 />
 
-### Coding Mode: ON 💻
+### When the code finally works... 😎
 
 </div>
 
 ```text
-Idea 💡
-   ↓
-Code 💻
-   ↓
-Bug 🐛
-   ↓
-Debug 🔧
-   ↓
-More Bugs 🐛
-   ↓
-Coffee ☕
-   ↓
-More Debugging 🔧
-   ↓
-It Works! 🎉
-   ↓
-Deploy 🚀
+Write Code
+     ↓
+Run Code
+     ↓
+🐛 Bug
+     ↓
+Debug
+     ↓
+🐛 Another Bug
+     ↓
+☕ Coffee
+     ↓
+Debug Again
+     ↓
+🚀 It Works!

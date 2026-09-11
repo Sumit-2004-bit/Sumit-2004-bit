@@ -1,23 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm Sumit Deshmukh
+# 👋 Hey, I'm Sumit Deshmukh
 
-### 💻 Frontend Developer | React.js | JavaScript
+### 💻 Frontend Developer
+
+**React.js • JavaScript • Responsive Web Development**
+
+<br>
 
 <img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"
   width="420"
-  alt="Coding animation"
+  alt="Anime coding GIF"
 />
 
-<br />
+<br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;JavaScript+Developer;Building+Responsive+Web+Applications;Turning+Ideas+Into+Web+Experiences"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Code+%2B+Coffee+%3D+🚀"
   alt="Typing animation"
 />
 
-<br /><br />
+<br><br>
 
 <a href="https://sumit-portfolio-amber.vercel.app/">
   <img
@@ -44,67 +48,73 @@
 
 ---
 
-## 👨‍💻 About Me
+# 🌸 About Me
 
-I'm **Sumit Deshmukh**, a Frontend Developer based in **Maharashtra, India**.
+<img
+  align="right"
+  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  width="280"
+  alt="Anime developer GIF"
+/>
 
-I enjoy building clean, responsive, and user-friendly web applications using modern frontend technologies.
+Hi! I'm **Sumit Deshmukh**, a **Frontend Developer** from Maharashtra, India.
 
-My primary focus is **React.js and JavaScript**, with an emphasis on reusable components, responsive interfaces, API integration, and practical user experiences.
+I enjoy creating modern, responsive, and user-friendly web applications.
 
-I believe great frontend development is more than writing code — it's about creating digital experiences that are **simple, accessible, performant, and enjoyable to use**.
+My primary focus is **React.js and JavaScript**, with an emphasis on:
+
+- 🧩 Reusable components
+- 📱 Responsive design
+- 🎨 Clean UI
+- 🔗 REST API integration
+- ⚡ Performance
+- ♿ Accessibility
+- 🛠️ Maintainable code
+
+I enjoy taking an idea, turning it into an interface, and then making it actually work.
+
+<br clear="right"/>
 
 ---
 
-## 💻 What I Do
+# ⚡ What I Do
 
-- ⚛️ Build modern web applications with React.js
-- 🧩 Develop reusable and maintainable UI components
-- 📱 Create responsive and mobile-first interfaces
-- 🔗 Integrate REST APIs
-- 🎨 Build clean and intuitive user interfaces
-- ⚡ Focus on performance and usability
-- ♿ Consider accessibility in frontend development
-- 🚀 Deploy applications using modern development workflows
+| Area | What I Build |
+|---|---|
+| ⚛️ React.js | Interactive web applications |
+| 💻 JavaScript | Dynamic functionality |
+| 🎨 UI Development | Clean and intuitive interfaces |
+| 📱 Responsive Design | Mobile, tablet & desktop experiences |
+| 🧩 Components | Reusable UI components |
+| 🔗 REST APIs | Dynamic data integration |
+| ⚡ Performance | Fast and efficient experiences |
 
 ---
 
 # 🛠️ Tech Stack
 
-### Frontend
+## 🎨 Frontend
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite"
-    alt="Frontend Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
 </p>
 
-### Backend & Databases
+## ⚙️ Backend & Databases
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"
-    alt="Backend and Database Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-### Programming Languages
+## 👨‍💻 Programming Languages
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=java,c"
-    alt="Programming Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### Tools & Platforms
+## 🔧 Tools & Platforms
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel"
-    alt="Development Tools"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
 </p>
 
 ---
@@ -117,25 +127,25 @@ I believe great frontend development is more than writing code — it's about cr
 
 <img
   src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-  width="330"
-  alt="Web development animation"
+  width="320"
+  alt="Anime coding animation"
 />
 
 </div>
 
 **HomeEase Pro** is a responsive home-services booking platform inspired by modern service marketplaces.
 
-The project focuses on providing users with a simple and intuitive way to discover services and follow a booking workflow.
+The project focuses on creating a simple service discovery and booking experience.
 
 ### ✨ Features
 
-- 📱 Responsive and mobile-first design
-- 🔎 Service search functionality
+- 🔎 Service search
 - 📅 Booking workflow
-- 🎨 Interactive user interface
-- 💾 Local Storage functionality
+- 📱 Responsive interface
+- 🎨 Interactive UI
+- 💾 Local Storage
 - 🧩 Reusable UI elements
-- ⚡ Responsive user experience
+- ⚡ Mobile-first design
 
 ### 🧰 Tech Stack
 
@@ -152,62 +162,79 @@ The project focuses on providing users with a simple and intuitive way to discov
 <div align="center">
 
 <img
-  src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif"
+  src="https://media.giphy.com/media/8bM7f7M7p5v0I/giphy.gif"
   width="300"
-  alt="Portfolio animation"
+  alt="Anime portfolio GIF"
 />
 
 </div>
 
-My personal portfolio website showcases my **projects, technical skills, and professional profile**.
+My personal portfolio showcases my:
 
-### ✨ Highlights
-
-- 🎨 Modern user interface
-- 📱 Responsive design
-- 💻 Project showcase
+- 👨‍💻 Development projects
 - 🛠️ Technical skills
-- 👨‍💻 Professional introduction
+- 🎨 Frontend work
+- 📚 Development journey
 - 📧 Contact information
-- 🌐 Mobile-friendly experience
 
-### 🔗 Live Portfolio
+### 🌐 Live Portfolio
 
 👉 **https://sumit-portfolio-amber.vercel.app/**
 
 ---
 
-# 😂 Developer Life
+# 🎌 Developer Mode: ON
 
 <div align="center">
 
 <img
-  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-  width="320"
-  alt="Funny coding GIF"
+  src="https://media.giphy.com/media/9CffOPMlQOeM0/giphy.gif"
+  width="330"
+  alt="Funny anime coding GIF"
 />
 
-### "Just one small change..." 😅
+### When the code works on the first try...
+
+**Impossible. Absolutely impossible. 😂**
 
 </div>
 
+---
+
+# 🐛 The Developer Life
+
 ```text
-Write Code
-    ↓
-Run Code
-    ↓
-🐛 Bug
-    ↓
-Fix Bug
-    ↓
-🐛 Another Bug
-    ↓
-Google
-    ↓
-Stack Overflow
-    ↓
-Try Again
-    ↓
-☕ Coffee
-    ↓
-It Works! 🎉
+        💡 I have an idea!
+                │
+                ▼
+        💻 Start coding
+                │
+                ▼
+        😊 Everything looks good
+                │
+                ▼
+        ▶️ Run the application
+                │
+                ▼
+        🐛 ERROR
+                │
+                ▼
+        🔍 Search for the problem
+                │
+                ▼
+        🐛 Find another problem
+                │
+                ▼
+        ☕ Coffee break
+                │
+                ▼
+        🔧 Fix everything
+                │
+                ▼
+        🚀 IT WORKS!
+                │
+                ▼
+        😎 I'm a genius
+                │
+                ▼
+        🐛 New bug appears

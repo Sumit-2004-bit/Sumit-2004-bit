@@ -1,240 +1,139 @@
-<div align="center">
+# Hi, I'm Sumit Deshmukh 👋
 
-# 👋 Hey, I'm Sumit Deshmukh
+### Frontend Developer | React.js | JavaScript
 
-### 💻 Frontend Developer
+I'm a Frontend Developer focused on building **responsive, accessible, and user-friendly web applications** using React.js and JavaScript.
 
-**React.js • JavaScript • Responsive Web Development**
+I enjoy turning ideas into practical digital experiences, building reusable components, integrating APIs, and continuously improving my development skills.
 
-<br>
-
-<img
-  src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"
-  width="420"
-  alt="Anime coding GIF"
-/>
-
-<br><br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Code+%2B+Coffee+%3D+🚀"
-  alt="Typing animation"
-/>
-
-<br><br>
-
-<a href="https://sumit-portfolio-amber.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-<a href="https://github.com/Sumit-2004-bit">
-  <img
-    src="https://img.shields.io/badge/💻%20GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://linkedin.com/in/sumit-deshmukh25">
-  <img
-    src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</div>
-
----
-
-# 🌸 About Me
-
-<img
-  align="right"
-  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-  width="280"
-  alt="Anime developer GIF"
-/>
-
-Hi! I'm **Sumit Deshmukh**, a **Frontend Developer** from Maharashtra, India.
-
-I enjoy creating modern, responsive, and user-friendly web applications.
-
-My primary focus is **React.js and JavaScript**, with an emphasis on:
-
-- 🧩 Reusable components
-- 📱 Responsive design
-- 🎨 Clean UI
-- 🔗 REST API integration
-- ⚡ Performance
-- ♿ Accessibility
-- 🛠️ Maintainable code
-
-I enjoy taking an idea, turning it into an interface, and then making it actually work.
-
-<br clear="right"/>
-
----
-
-# ⚡ What I Do
-
-| Area | What I Build |
-|---|---|
-| ⚛️ React.js | Interactive web applications |
-| 💻 JavaScript | Dynamic functionality |
-| 🎨 UI Development | Clean and intuitive interfaces |
-| 📱 Responsive Design | Mobile, tablet & desktop experiences |
-| 🧩 Components | Reusable UI components |
-| 🔗 REST APIs | Dynamic data integration |
-| ⚡ Performance | Fast and efficient experiences |
-
----
-
-# 🛠️ Tech Stack
-
-## 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
-</p>
-
-## ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
-
-## 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c" />
-</p>
-
-## 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+<p align="left">
+  <a href="https://sumit-portfolio-amber.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/sumit-deshmukh25">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:deshmukhsumit2503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## About Me
 
-## 🏠 HomeEase Pro
-
-<div align="center">
-
-<img
-  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-  width="320"
-  alt="Anime coding animation"
-/>
-
-</div>
-
-**HomeEase Pro** is a responsive home-services booking platform inspired by modern service marketplaces.
-
-The project focuses on creating a simple service discovery and booking experience.
-
-### ✨ Features
-
-- 🔎 Service search
-- 📅 Booking workflow
-- 📱 Responsive interface
-- 🎨 Interactive UI
-- 💾 Local Storage
-- 🧩 Reusable UI elements
-- ⚡ Mobile-first design
-
-### 🧰 Tech Stack
-
-`HTML5` · `CSS3` · `JavaScript` · `Tailwind CSS`
-
-### 🌐 Live Project
-
-👉 **https://home-ease-pro.vercel.app/**
+- 💻 Frontend Developer focused on **React.js and JavaScript**
+- 🎨 Interested in building clean and intuitive user interfaces
+- 📱 Focused on responsive and mobile-first development
+- 🧩 Experienced with reusable component-based development
+- 🔌 Comfortable working with REST APIs
+- 🚀 Experienced with deploying applications using Vercel
+- 🛠️ Familiar with both frontend and backend technologies
+- 📚 Continuously improving problem-solving and software development skills
 
 ---
 
-# 💼 Personal Portfolio
+## Tech Stack
 
-<div align="center">
+### Frontend
 
-<img
-  src="https://media.giphy.com/media/8bM7f7M7p5v0I/giphy.gif"
-  width="300"
-  alt="Anime portfolio GIF"
-/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Technologies">
+</p>
 
-</div>
+### Backend & Database
 
-My personal portfolio showcases my:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend and Database Technologies">
+</p>
 
-- 👨‍💻 Development projects
-- 🛠️ Technical skills
-- 🎨 Frontend work
-- 📚 Development journey
-- 📧 Contact information
+### Programming Languages
 
-### 🌐 Live Portfolio
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c" alt="Programming Languages">
+</p>
 
-👉 **https://sumit-portfolio-amber.vercel.app/**
+### Tools & Platforms
 
----
-
-# 🎌 Developer Mode: ON
-
-<div align="center">
-
-<img
-  src="https://media.giphy.com/media/9CffOPMlQOeM0/giphy.gif"
-  width="330"
-  alt="Funny anime coding GIF"
-/>
-
-### When the code works on the first try...
-
-**Impossible. Absolutely impossible. 😂**
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Tools and Platforms">
+</p>
 
 ---
 
-# 🐛 The Developer Life
+## Featured Projects
+
+### HomeEase Pro
+
+A responsive service-based web application designed to provide users with an intuitive way to explore services and interact with a booking workflow.
+
+**Key Features**
+
+- Service search functionality
+- Booking workflow
+- Responsive and mobile-first interface
+- Interactive user experience
+- Local Storage integration
+- Clean and user-friendly design
+
+**Technologies**
+
+`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+
+<p align="left">
+  <a href="https://home-ease-pro.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-HomeEase%20Pro-2ea44f?style=for-the-badge" alt="HomeEase Pro Live Demo">
+  </a>
+</p>
+
+---
+
+### Personal Portfolio
+
+A personal portfolio website built to showcase my projects, technical skills, professional profile, and development experience.
+
+**Highlights**
+
+- Responsive design
+- Modern user interface
+- Project showcase
+- Technical skills section
+- Professional profile
+- Mobile-friendly experience
+
+<p align="left">
+  <a href="https://sumit-portfolio-amber.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-View%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## Development Focus
+
+I focus on building applications that are:
+
+- **Responsive** — optimized for different screen sizes
+- **Accessible** — designed with usability and accessibility in mind
+- **Maintainable** — structured with reusable and organized code
+- **Performant** — optimized for a smooth user experience
+- **User-focused** — built around practical user needs
+
+---
+
+## Development Workflow
 
 ```text
-        💡 I have an idea!
-                │
-                ▼
-        💻 Start coding
-                │
-                ▼
-        😊 Everything looks good
-                │
-                ▼
-        ▶️ Run the application
-                │
-                ▼
-        🐛 ERROR
-                │
-                ▼
-        🔍 Search for the problem
-                │
-                ▼
-        🐛 Find another problem
-                │
-                ▼
-        ☕ Coffee break
-                │
-                ▼
-        🔧 Fix everything
-                │
-                ▼
-        🚀 IT WORKS!
-                │
-                ▼
-        😎 I'm a genius
-                │
-                ▼
-        🐛 New bug appears
+Plan
+  ↓
+Design
+  ↓
+Develop
+  ↓
+Test
+  ↓
+Debug
+  ↓
+Optimize
+  ↓
+Deploy

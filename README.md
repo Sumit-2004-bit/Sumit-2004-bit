@@ -10,6 +10,8 @@
   alt="Developer coding"
 />
 
+<br>
+
 <p>
   <a href="https://sumit-portfolio-amber.vercel.app/">
     <img
@@ -20,14 +22,14 @@
 
   <a href="https://github.com/Sumit-2004-bit">
     <img
-      src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 
   <a href="https://linkedin.com/in/sumit-deshmukh25">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -39,24 +41,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** based in Maharashtra, India, focused on building clean, responsive, and user-friendly web applications.
+I'm **Sumit Deshmukh**, a Frontend Developer based in **Maharashtra, India**.
 
-My primary focus is **React.js and modern JavaScript**, with an emphasis on reusable components, responsive interfaces, API integration, and practical user experiences.
+I enjoy building clean, responsive, and user-friendly web applications using modern frontend technologies.
 
-I enjoy transforming ideas into functional web applications while keeping the code clean, maintainable, and easy to understand.
+My primary focus is **React.js and JavaScript**, with an emphasis on reusable components, responsive design, API integration, and practical user experiences.
+
+I believe great frontend development is about more than writing code — it's about creating digital experiences that are **simple, accessible, performant, and enjoyable to use**.
 
 ---
 
 ## 💻 What I Do
 
-- ⚛️ Build responsive React.js applications
-- 🧩 Create reusable UI components
-- 🌐 Integrate REST APIs
-- 📱 Develop mobile-first interfaces
+- ⚛️ Build modern web applications with React.js
+- 🧩 Develop reusable and maintainable UI components
+- 📱 Create responsive and mobile-first interfaces
+- 🔗 Integrate REST APIs
 - 🎨 Build clean and intuitive user interfaces
 - ⚡ Focus on performance and usability
 - ♿ Consider accessibility in frontend development
-- 🔧 Work with modern frontend development tools
+- 🚀 Deploy applications using modern development workflows
 
 ---
 
@@ -67,16 +71,16 @@ I enjoy transforming ideas into functional web applications while keeping the co
 <p>
   <img
     src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite"
-    alt="Frontend technologies"
+    alt="Frontend Technologies"
   />
 </p>
 
-### Backend & Database
+### Backend & Databases
 
 <p>
   <img
     src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"
-    alt="Backend technologies"
+    alt="Backend and Database Technologies"
   />
 </p>
 
@@ -85,16 +89,16 @@ I enjoy transforming ideas into functional web applications while keeping the co
 <p>
   <img
     src="https://skillicons.dev/icons?i=java,c"
-    alt="Programming languages"
+    alt="Programming Languages"
   />
 </p>
 
-### Development Tools
+### Tools & Platforms
 
 <p>
   <img
     src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel"
-    alt="Development tools"
+    alt="Development Tools"
   />
 </p>
 
@@ -104,43 +108,107 @@ I enjoy transforming ideas into functional web applications while keeping the co
 
 ## 🏠 HomeEase Pro
 
-A responsive **home-services booking platform** designed around a simple and intuitive service-booking experience.
+<img
+  align="right"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  width="250"
+  alt="Web development animation"
+/>
 
-### Features
+**HomeEase Pro** is a responsive home-services booking platform inspired by modern service marketplaces.
 
-- 📱 Responsive and mobile-first interface
+The project focuses on providing users with a simple and intuitive way to discover services and go through a booking workflow.
+
+### ✨ Features
+
+- 📱 Responsive and mobile-first design
 - 🔎 Service search functionality
 - 📅 Booking workflow
-- 🎨 Interactive UI components
+- 🎨 Interactive user interface
 - 💾 Local Storage functionality
+- 🧩 Reusable UI elements
 - ⚡ Responsive user experience
 
-### Tech Stack
+### 🧰 Technologies
 
 `HTML5` · `CSS3` · `JavaScript` · `Tailwind CSS`
 
-### Live Project
+### 🌐 Live Project
 
 👉 https://home-ease-pro.vercel.app/
+
+<br clear="right"/>
 
 ---
 
 ## 💼 Personal Portfolio
 
-My personal portfolio website showcasing my projects, technical skills, and development journey.
+<img
+  align="right"
+  src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
+  width="230"
+  alt="Portfolio animation"
+/>
 
-### Highlights
+My personal portfolio website showcases my **projects, technical skills, and professional profile**.
 
-- Responsive design
-- Modern user interface
-- Project showcase
-- Technical skills
-- Professional profile
-- Mobile-friendly experience
+### ✨ Highlights
 
-### Live Portfolio
+- 🎨 Modern user interface
+- 📱 Responsive design
+- 💻 Project showcase
+- 🛠️ Technical skills
+- 👨‍💻 Professional introduction
+- 📧 Contact information
+- 🌐 Mobile-friendly experience
+
+### 🌐 Live Portfolio
 
 👉 https://sumit-portfolio-amber.vercel.app/
+
+<br clear="right"/>
+
+---
+
+# 🎯 Development Focus
+
+I focus on creating web applications that are:
+
+<div align="center">
+
+| ⚡ Performance | 📱 Responsive |
+|:---:|:---:|
+| Fast and efficient experiences | Works across different screen sizes |
+
+| 🎨 User Experience | 🧩 Maintainability |
+|:---:|:---:|
+| Simple and intuitive interfaces | Clean and reusable code |
+
+</div>
+
+---
+
+# 🧠 Development Principles
+
+### 01 — Clean Code
+
+I aim to write code that is readable, organized, and easy to maintain.
+
+### 02 — Reusable Components
+
+I prefer component-based development to create consistent and scalable interfaces.
+
+### 03 — Responsive Design
+
+I build interfaces that provide a smooth experience across desktops, tablets, and mobile devices.
+
+### 04 — User Experience
+
+I believe functionality and design should work together to create simple and intuitive experiences.
+
+### 05 — Continuous Improvement
+
+I improve my development skills by building projects, solving problems, and exploring better development practices.
 
 ---
 
@@ -155,16 +223,14 @@ My personal portfolio website showcasing my projects, technical skills, and deve
 
 </div>
 
----
-
-# 📌 GitHub Profile
+<br>
 
 <div align="center">
 
 <a href="https://github.com/Sumit-2004-bit">
   <img
-    src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Visit GitHub"
+    src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Repositories"
   />
 </a>
 
@@ -172,24 +238,70 @@ My personal portfolio website showcasing my projects, technical skills, and deve
 
 ---
 
-# 🎯 Development Focus
+# 💼 Career Interests
 
-I focus on building web applications that are:
+I'm interested in opportunities where I can contribute to real-world applications, collaborate with experienced developers, and continue growing as a software developer.
 
-```text
-        Clean
-          │
-          ▼
-      Responsive
-          │
-          ▼
-     User-Friendly
-          │
-          ▼
-      Accessible
-          │
-          ▼
-     Maintainable
-          │
-          ▼
-       Scalable
+### Interested In
+
+`Frontend Development`
+
+`React.js Development`
+
+`JavaScript Development`
+
+`Web Application Development`
+
+`UI Development`
+
+`Full-Stack Development`
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://sumit-portfolio-amber.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/Sumit-2004-bit">
+  <img
+    src="https://img.shields.io/badge/💻%20GitHub-Visit%20Profile-181717?style=for-the-badge"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://linkedin.com/in/sumit-deshmukh25">
+  <img
+    src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"
+    alt="LinkedIn"
+  />
+</a>
+
+<br><br>
+
+📧 **deshmukhsumit2503@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+JavaScript;Building+Modern+Web+Experiences;Clean+Code+%7C+Thoughtful+Design"
+  alt="Typing animation"
+/>
+
+<br>
+
+### 🚀 Build with purpose. Learn continuously. Create better.
+
+**Thanks for visiting my GitHub profile! 👋**
+
+</div>

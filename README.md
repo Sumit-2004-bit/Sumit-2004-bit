@@ -1,49 +1,47 @@
-# Hi, I'm Sumit Deshmukh 👋
+# 👋 Hey, I'm Sumit Deshmukh
 
-### Frontend Developer | React.js | JavaScript
+### Frontend Developer building clean, responsive & user-focused web experiences.
 
-I'm a **Frontend Developer** from Maharashtra, India, focused on building **responsive, accessible, and user-friendly web applications**.
+I'm a frontend developer based in **Maharashtra, India**, passionate about turning ideas into modern web applications.
 
-I enjoy turning ideas into clean and practical digital experiences using modern frontend technologies. My primary focus is **React.js and JavaScript**, while I'm currently expanding my knowledge of backend development to grow toward full-stack development.
-
-> **I believe great frontend development is where clean code, thoughtful design, performance, and user experience come together.**
+My core focus is **React.js, JavaScript, responsive design, and reusable UI development**. I'm also exploring backend technologies and working toward becoming a well-rounded **Full-Stack Developer**.
 
 ---
 
-## 👨‍💻 About Me
+### 💻 What I Build
 
-* 💻 Frontend Developer focused on **React.js and JavaScript**
-* ⚛️ Building responsive and reusable user interfaces
-* 🔗 Experience working with **REST APIs**
-* 📱 Focused on responsive and mobile-first development
-* ♿ Interested in accessibility and inclusive web experiences
-* 🚀 Continuously improving performance and code quality
-* 🌱 Currently learning backend development and full-stack concepts
-* 🎯 Preparing to build production-ready applications
+```text
+Modern UI        →  Clean & intuitive interfaces
+Responsive Web   →  Mobile-first experiences
+React Apps       →  Reusable component architecture
+REST APIs        →  Dynamic application experiences
+Performance      →  Fast & optimized websites
+Accessibility    →  Usable experiences for everyone
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-### Programming Languages
+### Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
@@ -51,95 +49,73 @@ I enjoy turning ideas into clean and practical digital experiences using modern 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🏠 HomeEase Pro
 
-**HomeEase Pro** is a responsive home-services booking platform inspired by modern service marketplaces.
+A modern **home-services booking platform** designed around a simple and responsive user experience.
 
-### Key Features
+**What I worked on**
 
-* 📱 Responsive and mobile-first design
-* 🔎 Service search functionality
-* 📅 Service booking workflow
-* 🎨 Interactive user interface
-* 💾 Local Storage integration
-* ⚡ Fast and responsive experience
+* Responsive service marketplace interface
+* Service discovery and search
+* Booking flow
+* Interactive components
+* Local Storage functionality
+* Mobile-first layouts
 
-### Tech Stack
+**Built with**
 
-`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
 
-### 🔗 Live Demo
-
-[View HomeEase Pro](https://home-ease-pro.vercel.app/)
+**Live →** [HomeEase Pro](https://home-ease-pro.vercel.app/)
 
 ---
 
 ## 💼 Personal Portfolio
 
-My personal portfolio website showcasing my **projects, technical skills, development journey, and professional profile**.
+My personal developer portfolio where I showcase my projects, skills, experience, and journey as a frontend developer.
 
-### Highlights
+**Built with modern web development principles**
 
-* Modern responsive design
+* Responsive UI
+* Clean component structure
+* Modern visual design
 * Project showcase
-* Technical skills
-* Professional introduction
-* Contact information
-* Mobile-friendly interface
+* Developer-focused content
 
-### 🔗 Live Portfolio
-
-[Visit My Portfolio](https://sumit-portfolio-amber.vercel.app/)
+**Live →** [My Portfolio](https://sumit-portfolio-amber.vercel.app/)
 
 ---
 
-# 📚 Currently Learning
-
-I'm continuously improving my development skills and currently focusing on:
-
-* ⚛️ Advanced React.js
-* 🟢 Node.js
-* 🚂 Express.js
-* 🗄️ MySQL
-* 🍃 MongoDB
-* 🧠 Data Structures & Algorithms
-* 🏗️ Clean Architecture
-* ⚡ Web Performance Optimization
-* 🔐 Backend & API Development
-* 🌐 Full-Stack Development
-
----
-
-# 📊 GitHub Statistics
+# 📈 GitHub Activity
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Sumit-2004-bit&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
+    height="165"
   />
 
-<img 
+<img
  src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-2004-bit&theme=transparent&hide_border=true"
- height="170"
+ height="165"
 />
 
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-2004-bit&layout=compact&hide_border=true&theme=transparent"
-    height="170"
+    height="165"
   />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📊 Contribution Graph
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-2004-bit&theme=github-compact&hide_border=true"
     width="100%"
   />
@@ -147,68 +123,97 @@ I'm continuously improving my development skills and currently focusing on:
 
 ---
 
-# 🎯 My Development Goals
+# 🎯 Developer Journey
 
-I'm working toward becoming a strong **Full-Stack Developer** by continuously improving my ability to:
-
-* Build scalable web applications
-* Write clean and maintainable code
-* Design reusable components
-* Work with APIs and databases
-* Optimize application performance
-* Follow modern development practices
-* Solve problems using efficient algorithms
-* Build real-world projects
+```text
+Frontend Development
+        │
+        ├── HTML / CSS
+        ├── JavaScript
+        ├── React.js
+        ├── Tailwind CSS
+        │
+        ▼
+   Real-World Projects
+        │
+        ├── Responsive Design
+        ├── API Integration
+        ├── Reusable Components
+        └── Performance
+        │
+        ▼
+   Backend Development
+        │
+        ├── Node.js
+        ├── Express.js
+        ├── MySQL
+        └── MongoDB
+        │
+        ▼
+   Full-Stack Development 🚀
+```
 
 ---
 
-# 🌱 Beyond Coding
+# 💡 My Approach
 
-When I'm not coding, I enjoy:
+I try to keep every project focused on three things:
 
-* 🎨 Exploring UI/UX design
-* 📖 Reading technical documentation
-* 💡 Exploring modern frontend architecture
-* 🛠️ Building personal projects
-* 🧠 Improving problem-solving skills
-* 🚀 Learning new technologies
+**01 — User Experience**
+
+Interfaces should be simple, intuitive, and enjoyable to use.
+
+**02 — Code Quality**
+
+I aim for readable, reusable, and maintainable code.
+
+**03 — Continuous Improvement**
+
+Every project is an opportunity to learn something new and improve my development skills.
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Find Me Online
 
-I'm always open to connecting with developers, recruiters, and people interested in technology.
+<p align="center">
 
-<p>
-  <a href="mailto:deshmukhsumit2503@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-  </a>
+<a href="https://sumit-portfolio-amber.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
+</a>
 
-  
+<a href="https://github.com/Sumit-2004-bit">
+  <img src="https://img.shields.io/badge/GitHub-Sumit--2004--bit-black?style=for-the-badge&logo=github" />
+</a>
 
-  <a href="https://linkedin.com/in/sumit-deshmukh25">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
+<a href="https://linkedin.com/in/sumit-deshmukh25">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin" />
+</a>
 
-  
+</p>
 
-  <a href="https://github.com/Sumit-2004-bit">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
-  </a>
+<p align="center">
+  📧 <a href="mailto:deshmukhsumit2503@gmail.com">deshmukhsumit2503@gmail.com</a>
 </p>
 
 ---
 
-## 🌐 Portfolio
+# 📌 Open To
 
-### [sumit-portfolio-amber.vercel.app](https://sumit-portfolio-amber.vercel.app/)
+I'm interested in opportunities where I can:
+
+* Build real-world web applications
+* Work with experienced developers
+* Improve my frontend engineering skills
+* Learn modern development practices
+* Contribute to meaningful products
+* Grow toward full-stack development
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-</p>
 
-<p align="center">
-  <i>Building. Learning. Improving. One project at a time.</i>
+### 🚀 Build → Learn → Improve → Repeat
+
+**Thanks for visiting my GitHub profile!**
+
 </p>
